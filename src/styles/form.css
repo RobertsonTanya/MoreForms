@@ -1,0 +1,11 @@
+form, #results {
+    margin: 20px auto;
+    max-width: 300px;
+    padding: 20px;
+}
+input {
+    display: block;
+}
+.error {
+    color: red;
+}
